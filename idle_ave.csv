@@ -1,5 +1,3 @@
-AVERAGES
-
 Refresh rate, iter, cpu cycles, bus cycles, instr, branch instructions, branch misses, bpu access, bpu miss, cache ref, cache misses, dtlb read, dtlb miss, itlb read accesses, itlb read misses
 1000000000,499,13191953,1810337,2366721,507679,49150,516481,49665,165678,105520,549316,9692,726,2925,10000000,
 
